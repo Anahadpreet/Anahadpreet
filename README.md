@@ -8,8 +8,29 @@
 
 ## 🛠️ Tech Stack
 
-C · C++ · Python · JavaScript · HTML · CSS · React.js · Node.js · Express.js · PostgreSQL · SQL · Git · GitHub · VS Code
-**Core CS concepts:** Data Structures & Algorithms · OOP · Operating Systems · DBMS · Computer Networks · Computer System Architecture · Theory of Computation · Software Engineering Fundamentals
+<details>
+<summary><b>💻 Languages</b></summary>
+<br>
+C++ · C · Python · JavaScript
+</details>
+
+<details>
+<summary><b>🌐 Web Development</b></summary>
+<br>
+HTML · CSS · React.js · Node.js · Express.js
+</details>
+
+<details>
+<summary><b>🗄️ Databases</b></summary>
+<br>
+PostgreSQL · SQL · Firebase
+</details>
+
+<details>
+<summary><b>🧰 Tools</b></summary>
+<br>
+Git · GitHub · VS Code
+</details>
 
 
 ## 🚀 Featured Projects

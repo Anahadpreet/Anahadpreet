@@ -1,12 +1,13 @@
-# Hi, I'm Anahadpreet Kaur👋
+<h1 align="center">Hi, I'm Anahadpreet Kaur 👋</h1>
 
-🎓 3rd year B.tech student at NITJ studying Information Technology 
-💻 I love **problem-solving in C++** and build full-stack projects with React and Node.js
+<p align="center">
+🎓 3rd year B.Tech student at NITJ studying Information Technology<br>
+💻 I love <b>problem-solving in C++</b> and build full-stack projects with React and Node.js
+</p>
 
 ## 🛠️ Tech Stack
 
 C · C++ · Python · JavaScript · HTML · CSS · React.js · Node.js · Express.js · PostgreSQL · SQL · Git · GitHub · VS Code
-
 **Core CS concepts:** Data Structures & Algorithms · OOP · Operating Systems · DBMS · Computer Networks · Computer System Architecture · Theory of Computation · Software Engineering Fundamentals
 
 ## 🚀 Featured Projects

@@ -8,29 +8,13 @@
 
 ## 🛠️ Tech Stack
 
-<details>
-<summary><b>💻 Languages</b></summary>
-<br>
-C++ · C · Python · JavaScript
-</details>
-
-<details>
-<summary><b>🌐 Web Development</b></summary>
-<br>
-HTML · CSS · React.js · Node.js · Express.js
-</details>
-
-<details>
-<summary><b>🗄️ Databases</b></summary>
-<br>
-PostgreSQL · SQL · Firebase
-</details>
-
-<details>
-<summary><b>🧰 Tools</b></summary>
-<br>
-Git · GitHub · VS Code
-</details>
+| | |
+|---|---|
+| **Languages** | C++ · C · Python · JavaScript |
+| **Web** | HTML · CSS · React.js · Node.js · Express.js |
+| **Databases** | PostgreSQL · SQL · Firebase |
+| **Tools** | Git · GitHub · VS Code |
+| **CS Core** | DSA · OOP · OS · DBMS · CN · COA · TOC |
 
 
 ## 🚀 Featured Projects

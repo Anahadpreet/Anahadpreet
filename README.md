@@ -8,14 +8,11 @@
 
 ## 🛠️ Tech Stack
 
-| | |
-|---|---|
-| **Languages** | C++ · C · Python · JavaScript |
-| **Web** | HTML · CSS · React.js · Node.js · Express.js |
-| **Databases** | PostgreSQL · SQL · Firebase |
-| **Tools** | Git · GitHub · VS Code |
-| **CS Core** | DSA · OOP · OS · DBMS · CN · COA · TOC |
-
+**Languages:** C++ · C · Python · JavaScript  
+**Frontend:** HTML · CSS · React.js · JavaScript  
+**Backend:** Node.js · Express.js  
+**Databases:** PostgreSQL · MySQL · MongoDB · Firebase  
+**Tools:** Git · GitHub · VS Code
 
 ## 🚀 Featured Projects
 

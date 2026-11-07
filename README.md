@@ -2,7 +2,6 @@
 
 <p align="center">
 🎓 3rd year B.Tech student at NITJ studying Information Technology<br>
-💻 I love <b>problem-solving in C++</b> and build full-stack projects with React and Node.js
 </p>
 
 
